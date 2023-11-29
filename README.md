@@ -7,8 +7,7 @@ Este projeto em Java foi desenvolvido como parte de um teste prático de program
 
 Considerando que uma indústria possui as pessoas / funcionários abaixo:
 
-<img src="/home/edilberto/projetos/teste_pratico_projedata/imagens/tabelaFuncionarios.png" alt="Texto Alternativo" width="600"/>
-
+//<img src="https://github.com/EdilbertoMorais/projedata/blob/main/imagens/tabelaFuncionarios.png" alt="Texto Alternativo" width="600"/>
 
 Diante disso, você deve desenvolver um projeto java, com os seguintes requisitos:
 
