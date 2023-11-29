@@ -7,7 +7,7 @@ Este projeto em Java foi desenvolvido como parte de um teste prático de program
 
 Considerando que uma indústria possui as pessoas / funcionários abaixo:
 
-//<img src="https://github.com/EdilbertoMorais/projedata/blob/main/imagens/tabelaFuncionarios.png" alt="Texto Alternativo" width="600"/>
+<img src="https://github.com/EdilbertoMorais/projedata/blob/main/imagens/tabelaFuncionarios.png" alt="Texto Alternativo" width="600"/>
 
 Diante disso, você deve desenvolver um projeto java, com os seguintes requisitos:
 
@@ -55,8 +55,7 @@ Boa sorte!
 
 ### Clonar o Repositório
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone git@github.com:EdilbertoMorais/projedata.git
 ```
 ### Importar o Projeto
 - Abra a IDE e importe o projeto como um projeto Maven.
